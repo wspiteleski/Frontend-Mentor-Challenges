@@ -66,7 +66,9 @@ Creating a baseline for all other stylized elements to react off of in a readabl
 
 ### Continued development
 
-While minimally used in this challenge, I plan to utilize flexbox more in the future to fully grasp its capabilities. I have also learned the need to continue practices with reactive designs for truly acceptable webpages in the future. 
+While minimally used in this challenge, I plan to utilize flexbox more in the future to fully grasp its capabilities. I have also learned the need to continue practices with reactive designs for truly acceptable webpages in the future.
+
+Visit my Git Page to see my finished projects, as well as my intended future projects: https://wspiteleski.github.io/Frontend-Mentor-Challenges/
 
 ### Useful resources
 

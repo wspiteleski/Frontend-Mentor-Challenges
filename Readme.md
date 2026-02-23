@@ -44,6 +44,7 @@ This repository showcases the following:
 | 15 | Huddle Landing Page w/ Single Introductory Section | Semantic HTML, Responsive Styling, and Sass Pre-Proccessor Implementation | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |
 
 ### 📂 Junior Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Bento Grid | CSS Grid and Responsive Styling | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |
@@ -52,6 +53,7 @@ This repository showcases the following:
 | 04 | Clipboard Landing Page |Semantic HTML, Responsive Styling, Hover States, and Sass Pre-Proccessor Implementation | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |
 
 ### 📂 Intermediate Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Chat App CSS Illustration | Semantic HTML, Responsive Styling, and Sass Pre-Proccessor Implementation From Scratch | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |
@@ -62,6 +64,7 @@ This repository showcases the following:
 ## 📁 HTML, CSS, and JavaScript Challenges 
 
 ### 📂 Newbie Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | FAQ Accordion | Introduction to JavaScript, Pattern Identification for Accessible Accordion |`index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon... |
@@ -72,6 +75,7 @@ This repository showcases the following:
 | 06 | Ping Single Column Coming Soon Page | Semantic HTML, Responsive Styling, Pattern Implementation with JavaScript and Sass Pre-Proccessor Implementation From Scratch | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon... |
 
 ### 📂 Junior Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Typing Speed Test | Dom Manipulation and Working w/ Timers | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon... |
@@ -103,6 +107,7 @@ This repository showcases the following:
 
 
 ### 📂 Intermediate Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Interactive Comments Section | Semantic HTML, Responsive CSS, JavaScript Framework Implementation, SassPre-Processor Implementation, and Dynamic DOM Population | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon... |
@@ -117,6 +122,7 @@ This repository showcases the following:
 | 10 | Bookmark Landing Page | Semantic HTML, Responsive CSS, JavaScript Framework Implementation, and SassPre-Processor Implementation | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon... |
 
 ### 📂 Advanced Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Multi-Step Form | Semantic HTML, Responsive CSS, JavaScript Framework Implementation, and SassPre-Processor Implementation | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon... |
@@ -127,11 +133,13 @@ This repository showcases the following:
 ## 📁 HTML, CSS, JavaScript, and API Challenges 
 
 ### 📂 Junior Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Advice Generator App | Introduction to Fetching API's w/ Advice Slip API | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon...|
 
 ### 📂 Intermediate Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | Weather App | Practice Fetching w/ Open-Meteo API | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon...|
@@ -139,6 +147,7 @@ This repository showcases the following:
 | 03 | URL Shortening API Landing Page | Practice Fetching w/ Clean URI API | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon...|
 
 ### 📂 Advanced Challenges
+
 | # | Name | Details | Files | Status | 
 |---|---|---|---|---|
 | 01 | REST Countries API with Theme Switcher | Practice Fetching with REST Countries API and Implementation of REACT | `index.html`, `styles.css`, `app.js`, and frentendmentor.io provided assets  | Coming Soon...|

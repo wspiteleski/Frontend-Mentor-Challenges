@@ -26,7 +26,7 @@ This repository showcases the following:
 ### 📂 Newbie Challenges
 | # | Name | Details | Files | Status | 
 |---|------|---------|-------|--------|
-| 01 | [QR Card Component](./HTML%20and%20CSS/01-Newbie-Difficulty/qr-code-component-main/) | Semantic HTML and Introduction to frontendmentor.io Challenges | `index.html`, `styles.css`, and frentendmentor.io provided assets | ☑️Available |
+| 01 | [QR Card Component](./qr-code-component-main/) | Semantic HTML and Introduction to frontendmentor.io Challenges | `index.html`, `styles.css`, and frentendmentor.io provided assets | ☑️Available |
 | 02 | Recipe Page | Semantic HTML and Stylesheet Introduction | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |
 | 03 | Social Links Profile | Semantic HTML and Tab Order / Tab Index  | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |
 | 04 | Blog Preview Card | Semantic HTML and Responsive Styling | `index.html`, `styles.css`, and frentendmentor.io provided assets | Coming Soon... |

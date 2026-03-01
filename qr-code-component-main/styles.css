@@ -3,7 +3,7 @@ body{
 }
 
 .card{
-    width: 20em;
+    width: 300px;
     max-width: 1440px;
     border-radius: 15px;
     background-color: hsl(0, 0%, 100%);
@@ -13,8 +13,7 @@ body{
 
 .card img{
     width: 90%;
-    display: flex;
-    margin: auto;
+    margin: .01em .95em;
     border-radius: 10px;
 }
 
@@ -29,7 +28,7 @@ body{
 }
 
 .card p{
-    font-family: 'Outfit';
+    font-family: 'Outfit', sans-serif;
     font-weight: 400;
     color: hsl(216, 15%, 48%);
     text-align: center;
